@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Persons>
+	<Person>
+		<Name>
+			<First>Elvis</First>
+			<Last>Presley</Last>
+		</Name>
+		<Credential>
+			<Id>ep</Id>
+			<Password>epresley</Password>
+		</Credential>
+		<Phone>
+			<Work>123-456 7890</Work>
+			<Cell Provider="Ultra">098-765 4321</Cell>
+		</Phone>
+		<Category>Friend</Category>
+	</Person>
+	<Person>
+		<Name>
+			<First>Led</First>
+			<Last>Zeppelin</Last>
+		</Name>
+		<Credential>
+			<Id>lz</Id>
+			<Password Encryption="Yes">lzeppelin</Password>
+		</Credential>
+		<Phone>
+			<Work>213-768 5</Work>
+			<Cell Provider="Tmobile">264-251 8462</Cell>
+		</Phone>
+		<Category>Family</Category>
+	</Person>
+	<Person>
+		<Name>
+			<First>Pink</First>
+			<Last>Floyd</Last>
+		</Name>
+		<Credential>
+			<Id>pf</Id>
+			<Password Encryption="yes">pfloyd</Password>
+		</Credential>
+		<Phone>
+			<Work>458-165 9432</Work>
+			<Cell Work="ATT">938-643 3452</Cell>
+		</Phone>
+		<Category>Work</Category>
+	</Person>
+	<Person>
+		<Name>
+			<First>Michael</First>
+			
+		</Name>
+		<Credential>
+			<Id>mj</Id>
+			<Password Encryption="No">mjackson</Password>
+		</Credential>
+		<Phone>
+			<Work>951-266 8456</Work>
+			<Cell>213-125 4353</Cell>
+		</Phone>
+		<Category>Friend</Category>
+	</Person>
+	<Person>
+		<Name>
+			<First>Celine</First>
+			<Last>Dion</Last>
+		</Name>
+		<Credential>
+			<Id>cd</Id>
+			<Password Encryption="Yes">cdion</Password>
+		</Credential>
+		<Phone>
+			<Work>345-546 4354</Work>
+			<Cell>345-675 5645</Cell>
+		</Phone>
+		<Category>BadCategory</Category>
+	</Person>
+	
+</Persons>

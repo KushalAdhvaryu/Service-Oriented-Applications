@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema"  elementFormDefault="qualified" attributeFormDefault="unqualified">
+	<xsd:element name="Persons">
+	<xsd:complexType>
+		<xsd:sequence>
+			<xsd:element name = "Person"  maxOccurs="unbounded"/>
+		</xsd:sequence>
+	</xsd:complexType>
+	</xsd:element>
+	<xsd:element name= "Person">
+	<xsd:complexType>
+		<xsd:sequence>
+			<xsd:element name="Name" minOccurs= "1" maxOccurs="1"/>
+			<xsd:element name="Credential" minOccurs= "1" maxOccurs="1"/>
+			<xsd:element name="Phone" minOccurs= "1" maxOccurs="1"/>
+			<xsd:element name="Category" minOccurs= "1" maxOccurs="1"/>
+		</xsd:sequence>
+	</xsd:complexType>
+	</xsd:element>
+	<xsd:element name= "Name">
+	<xsd:complexType>
+		<xsd:sequence>
+			<xsd:element name="First" type="xsd:string" minOccurs= "1" maxOccurs="1"/>
+			<xsd:element name="Last" type="xsd:string" minOccurs= "1" maxOccurs="1"/>
+		</xsd:sequence>
+	</xsd:complexType>
+	</xsd:element>
+	<xsd:element name= "Credential">
+	<xsd:complexType>
+		<xsd:sequence>
+			<xsd:element name="Id" type="xsd:string" minOccurs= "1" maxOccurs="1"/>
+			<xsd:element name="Password"  type="pwdtype" minOccurs= "1" maxOccurs="1"/>
+		</xsd:sequence>
+	</xsd:complexType>
+	</xsd:element>
+	<xsd:element name= "Phone">
+	<xsd:complexType>
+		<xsd:sequence>
+			<xsd:element name="Work" type="phoneType" minOccurs= "1" maxOccurs="1"/>
+			<xsd:element name="Cell"  minOccurs= "1" maxOccurs="1"/>
+		</xsd:sequence>
+	</xsd:complexType>
+	</xsd:element>
+	<xsd:complexType name="pwdtype">
+		<xsd:simpleContent>
+                   <xsd:extension base="xsd:string">
+                        <xsd:attribute name="Encryption" type="answer" use="required">
+                    </xsd:attribute>
+                 </xsd:extension>
+                </xsd:simpleContent>
+	</xsd:complexType>
+	<xsd:simpleType name="answer">
+			<xsd:restriction base="xsd:string">
+				<xsd:pattern value="Yes|No"/>
+			</xsd:restriction>
+		</xsd:simpleType>
+	<xsd:simpleType name="phoneType">
+			<xsd:restriction base="xsd:string">
+				<xsd:pattern value="\d{3}\-\d{3} \d{4}"/>
+			</xsd:restriction>
+	</xsd:simpleType>
+	<xsd:element name="Cell" >
+		<xsd:complexType >
+                    <xsd:simpleContent>
+			  <xsd:extension base="abc">
+                               <xsd:attribute name="Provider" type="xsd:string" use="optional"/>
+                          </xsd:extension>
+                     </xsd:simpleContent>
+		</xsd:complexType>
+	</xsd:element>	
+        <xsd:simpleType name="abc">  
+              <xsd:restriction base="xsd:string">
+				<xsd:pattern value="\d{3}\-\d{3} \d{4}"/>
+	        </xsd:restriction>
+        </xsd:simpleType>
+
+      
+
+	<xsd:element name= "Category">
+	<xsd:simpleType>
+		<xsd:restriction base="xsd:string">
+			<xsd:enumeration value="Family"/>
+			<xsd:enumeration value="Friend"/>
+			<xsd:enumeration value="Work"/>
+		</xsd:restriction>
+	</xsd:simpleType>
+	</xsd:element>
+</xsd:schema>

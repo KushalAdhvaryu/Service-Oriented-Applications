@@ -1,0 +1,9 @@
+c:\users\kadhvary\documents\visual studio 2015\Projects\WcfService2\webbrowser\bin\Debug\webbrowser.exe.config
+c:\users\kadhvary\documents\visual studio 2015\Projects\WcfService2\webbrowser\bin\Debug\webbrowser.exe
+c:\users\kadhvary\documents\visual studio 2015\Projects\WcfService2\webbrowser\bin\Debug\webbrowser.pdb
+c:\users\kadhvary\documents\visual studio 2015\Projects\WcfService2\webbrowser\obj\Debug\webbrowser.csprojResolveAssemblyReference.cache
+c:\users\kadhvary\documents\visual studio 2015\Projects\WcfService2\webbrowser\obj\Debug\webbrowser.Form1.resources
+c:\users\kadhvary\documents\visual studio 2015\Projects\WcfService2\webbrowser\obj\Debug\webbrowser.Properties.Resources.resources
+c:\users\kadhvary\documents\visual studio 2015\Projects\WcfService2\webbrowser\obj\Debug\webbrowser.csproj.GenerateResource.Cache
+c:\users\kadhvary\documents\visual studio 2015\Projects\WcfService2\webbrowser\obj\Debug\webbrowser.exe
+c:\users\kadhvary\documents\visual studio 2015\Projects\WcfService2\webbrowser\obj\Debug\webbrowser.pdb

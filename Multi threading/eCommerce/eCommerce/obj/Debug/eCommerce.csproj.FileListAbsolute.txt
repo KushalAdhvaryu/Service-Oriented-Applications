@@ -1,0 +1,12 @@
+c:\users\kadhvary\documents\visual studio 2015\Projects\eCommerce\eCommerce\bin\Debug\eCommerce.exe.config
+c:\users\kadhvary\documents\visual studio 2015\Projects\eCommerce\eCommerce\bin\Debug\eCommerce.exe
+c:\users\kadhvary\documents\visual studio 2015\Projects\eCommerce\eCommerce\bin\Debug\eCommerce.pdb
+c:\users\kadhvary\documents\visual studio 2015\Projects\eCommerce\eCommerce\obj\Debug\eCommerce.exe
+c:\users\kadhvary\documents\visual studio 2015\Projects\eCommerce\eCommerce\obj\Debug\eCommerce.pdb
+c:\users\kadhvary\documents\visual studio 2015\Projects\eCommerce\eCommerce\obj\Debug\eCommerce.csprojResolveAssemblyReference.cache
+C:\Users\ayush\Desktop\Assignment2Friday\eCommerce\eCommerce\bin\Debug\eCommerce.exe.config
+C:\Users\ayush\Desktop\Assignment2Friday\eCommerce\eCommerce\obj\Debug\eCommerce.exe
+C:\Users\ayush\Desktop\Assignment2Friday\eCommerce\eCommerce\obj\Debug\eCommerce.pdb
+C:\Users\ayush\Desktop\Assignment2Friday\eCommerce\eCommerce\bin\Debug\eCommerce.exe
+C:\Users\ayush\Desktop\Assignment2Friday\eCommerce\eCommerce\bin\Debug\eCommerce.pdb
+C:\Users\ayush\Desktop\Assignment2Friday\eCommerce\eCommerce\obj\Debug\eCommerce.csprojResolveAssemblyReference.cache

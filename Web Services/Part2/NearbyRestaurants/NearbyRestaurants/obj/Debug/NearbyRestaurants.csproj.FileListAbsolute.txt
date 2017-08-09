@@ -1,0 +1,8 @@
+c:\users\kadhvary\documents\visual studio 2015\Projects\NearbyRestaurants\NearbyRestaurants\bin\NearbyRestaurants.dll.config
+c:\users\kadhvary\documents\visual studio 2015\Projects\NearbyRestaurants\NearbyRestaurants\bin\NearbyRestaurants.dll
+c:\users\kadhvary\documents\visual studio 2015\Projects\NearbyRestaurants\NearbyRestaurants\bin\NearbyRestaurants.pdb
+c:\users\kadhvary\documents\visual studio 2015\Projects\NearbyRestaurants\NearbyRestaurants\bin\Newtonsoft.Json.dll
+c:\users\kadhvary\documents\visual studio 2015\Projects\NearbyRestaurants\NearbyRestaurants\bin\Newtonsoft.Json.xml
+c:\users\kadhvary\documents\visual studio 2015\Projects\NearbyRestaurants\NearbyRestaurants\obj\Debug\NearbyRestaurants.csprojResolveAssemblyReference.cache
+c:\users\kadhvary\documents\visual studio 2015\Projects\NearbyRestaurants\NearbyRestaurants\obj\Debug\NearbyRestaurants.dll
+c:\users\kadhvary\documents\visual studio 2015\Projects\NearbyRestaurants\NearbyRestaurants\obj\Debug\NearbyRestaurants.pdb

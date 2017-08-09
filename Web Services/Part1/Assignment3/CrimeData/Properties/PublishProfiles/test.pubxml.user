@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>E:\DSOD\Crime</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/CrimeData.dll">
+      <publishTime>06/15/2017 18:16:09</publishTime>
+    </File>
+    <File Include="Service1.svc">
+      <publishTime>06/06/2017 16:09:32</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>06/15/2017 18:14:33</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

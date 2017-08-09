@@ -1,0 +1,7 @@
+C:\Users\kadhvary\Downloads\Assignment3\CrimeData\bin\CrimeData.dll.config
+C:\Users\kadhvary\Downloads\Assignment3\CrimeData\bin\CrimeData.dll
+C:\Users\kadhvary\Downloads\Assignment3\CrimeData\bin\CrimeData.pdb
+C:\Users\kadhvary\Downloads\Assignment3\CrimeData\obj\Release\CrimeData.dll
+C:\Users\kadhvary\Downloads\Assignment3\CrimeData\obj\Release\CrimeData.pdb
+C:\Users\kadhvary\Downloads\Assignment3\CrimeData\bin\Newtonsoft.Json.dll
+C:\Users\kadhvary\Downloads\Assignment3\CrimeData\bin\Newtonsoft.Json.xml

@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<users>
+  <user>
+    <username>staff</username>
+    <password>q49lOQkj51M=</password>
+    <email>fake</email>
+    <type>staff</type>
+  </user>
+  <user>
+    <username>admin</username>
+    <password>iGlWmq0grSw=</password>
+    <email>alice</email>
+    <type>admin</type>
+  </user>
+  <user>
+    <username>abc</username>
+    <password>1gkMnBTtY3c=</password>
+    <email>abc</email>
+    <type>member</type>
+  </user>
+  <user>
+    <username>test</username>
+    <password>Zh2t8AKke98=</password>
+    <email>test</email>
+    <type>member</type>
+  </user>
+  <user>
+    <username>hi</username>
+    <password>zYqPSoAxHBY=</password>
+    <email>hi</email>
+    <type>member</type>
+  </user>
+</users>

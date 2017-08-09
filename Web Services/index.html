@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+<head>
+</style>
+</head>
+<body>
+<H1 ALIGN="CENTER"> Service Dictionary </H1>
+<TABLE BORDER="5" WIDTH="50%"   CELLPADDING="4" CELLSPACING="3" ALIGN="Center">
+ <TR>
+      <TH COLSPAN="5" ALIGN="Left">
+         <BR>This page is developed at: <a href="http://webstrar3.fulton.asu.edu/index.html"> http://webstrar3.fulton.asu.edu/index.html </a>
+      </TH>
+   </TR>
+   <TR>
+      <TH COLSPAN="5" ALIGN="Left">
+         <BR>This project is developed by: Kushal Adhvaryu 
+      </TH>
+   </TR>
+   <TR>
+      <TH>Provider Name</TH>
+      <TH>Service Name with Input and Output Types.</TH>
+	  <TH>Try IT</TH>
+	  <TH>Service Description</TH>
+	  <TH>Planned Resource need to implement Service</TH>
+   </TR>
+   <TR>
+      <TD>Kushal Adhvaryu</TD>
+      <TD>(Required) Weather Service
+			Input: string zipcode
+			Output: list of weather information object.
+	  </TD>
+	  <TD><a href="http://webstrar3.fulton.asu.edu/page5/Weather.aspx"> http://webstrar3.fulton.asu.edu/page5/Weather.aspx</a></TD>
+      <TD>For given zipcode provide 5 day weather information. </TD>
+	  <TD>Use api from openweather map at: https://openweathermap.org/forecast5 </TD>
+   </TR>
+   <TR>
+	  <TD>Kushal Adhvaryu</</TD>
+      <TD>(Required & RESTful) Crime Data service
+            Input : string longitutde,string latitude
+			Output: List of object containing crime type, date and address.
+	  </TD>
+      <TD><a href="http://webstrar3.fulton.asu.edu/page5/CrimeService.aspx"> http://webstrar3.fulton.asu.edu/page5/CrimeService.aspx</a></TD>
+	  <TD>This service provides Crime data based on user input for given Longitude and Latitude.</TD>
+      <TD>Use service from Spot Crime at : http://api.spotcrime.com/crimes.json
+</TD>
+   </TR>
+   <TR>
+      <TD>Kushal Adhvaryu</</TD>
+      <TD>(Elected & RESTful) Nearest Restaurants
+			Input: string Zipcode
+			Output: List of nearby restaurant objects.
+	  </TD>
+      <TD><a href="http://webstrar3.fulton.asu.edu/page4/NearbyRestaurants.aspx"> http://webstrar3.fulton.asu.edu/page4/NearbyRestaurants.aspx</a></TD>
+	  <TD>Provide list of restaurants for given input locality.</TD>
+      <TD>Use api from yelp at: https://www.yelp.com/developers/documentation/v2/search_api</TD>
+   </TR>
+   <TR>
+      <TD>Kushal Adhvaryu</</TD>
+      <TD>(Elected) Location display on Map
+			Input: double longitutde, double latitude
+			Output: string[] URL of map static, street view url.
+	  </TD>
+      <TD><a href="http://webstrar3.fulton.asu.edu/page4/LocationonMap.aspx"> http://webstrar3.fulton.asu.edu/page4/LocationonMap.aspx</a></TD>
+	  <TD>Display given latitude and longitude on google maps as static image and street view image.</TD>
+      <TD>Use api from Google developer at: https://developers.google.com/maps/
+</TD>
+   </TR>
+</TABLE>
+
+</body>
+</html>

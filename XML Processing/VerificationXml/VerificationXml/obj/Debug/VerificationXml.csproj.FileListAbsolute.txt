@@ -1,0 +1,6 @@
+c:\users\kadhvary\documents\visual studio 2015\Projects\VerificationXml\VerificationXml\bin\VerificationXml.dll.config
+c:\users\kadhvary\documents\visual studio 2015\Projects\VerificationXml\VerificationXml\bin\VerificationXml.dll
+c:\users\kadhvary\documents\visual studio 2015\Projects\VerificationXml\VerificationXml\bin\VerificationXml.pdb
+c:\users\kadhvary\documents\visual studio 2015\Projects\VerificationXml\VerificationXml\obj\Debug\VerificationXml.csprojResolveAssemblyReference.cache
+c:\users\kadhvary\documents\visual studio 2015\Projects\VerificationXml\VerificationXml\obj\Debug\VerificationXml.dll
+c:\users\kadhvary\documents\visual studio 2015\Projects\VerificationXml\VerificationXml\obj\Debug\VerificationXml.pdb

@@ -1,0 +1,5 @@
+c:\users\kadhvary\documents\visual studio 2015\Projects\NearbyRestaurants\LocationonMap\bin\LocationonMap.dll.config
+c:\users\kadhvary\documents\visual studio 2015\Projects\NearbyRestaurants\LocationonMap\bin\LocationonMap.dll
+c:\users\kadhvary\documents\visual studio 2015\Projects\NearbyRestaurants\LocationonMap\bin\LocationonMap.pdb
+c:\users\kadhvary\documents\visual studio 2015\Projects\NearbyRestaurants\LocationonMap\obj\Release\LocationonMap.dll
+c:\users\kadhvary\documents\visual studio 2015\Projects\NearbyRestaurants\LocationonMap\obj\Release\LocationonMap.pdb

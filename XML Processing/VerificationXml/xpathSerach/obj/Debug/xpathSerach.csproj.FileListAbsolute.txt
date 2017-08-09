@@ -1,0 +1,5 @@
+c:\users\kadhvary\documents\visual studio 2015\Projects\VerificationXml\xpathSerach\bin\xpathSerach.dll.config
+c:\users\kadhvary\documents\visual studio 2015\Projects\VerificationXml\xpathSerach\bin\xpathSerach.dll
+c:\users\kadhvary\documents\visual studio 2015\Projects\VerificationXml\xpathSerach\bin\xpathSerach.pdb
+c:\users\kadhvary\documents\visual studio 2015\Projects\VerificationXml\xpathSerach\obj\Debug\xpathSerach.dll
+c:\users\kadhvary\documents\visual studio 2015\Projects\VerificationXml\xpathSerach\obj\Debug\xpathSerach.pdb

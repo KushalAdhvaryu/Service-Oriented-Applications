@@ -1,0 +1,5 @@
+c:\users\kadhvary\documents\visual studio 2015\Projects\TextConverter\TextConverter\bin\Debug\TextConverter.dll
+c:\users\kadhvary\documents\visual studio 2015\Projects\TextConverter\TextConverter\bin\Debug\TextConverter.pdb
+c:\users\kadhvary\documents\visual studio 2015\Projects\TextConverter\TextConverter\obj\Debug\TextConverter.csprojResolveAssemblyReference.cache
+c:\users\kadhvary\documents\visual studio 2015\Projects\TextConverter\TextConverter\obj\Debug\TextConverter.dll
+c:\users\kadhvary\documents\visual studio 2015\Projects\TextConverter\TextConverter\obj\Debug\TextConverter.pdb

@@ -1,0 +1,82 @@
+C:\Users\kadhvary\Documents\Visual Studio 2015\Projects\Assignment3\TryIt\bin\roslyn\csc.exe
+C:\Users\kadhvary\Documents\Visual Studio 2015\Projects\Assignment3\TryIt\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\kadhvary\Documents\Visual Studio 2015\Projects\Assignment3\TryIt\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\kadhvary\Documents\Visual Studio 2015\Projects\Assignment3\TryIt\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\kadhvary\Documents\Visual Studio 2015\Projects\Assignment3\TryIt\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\kadhvary\Documents\Visual Studio 2015\Projects\Assignment3\TryIt\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\kadhvary\Documents\Visual Studio 2015\Projects\Assignment3\TryIt\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\kadhvary\Documents\Visual Studio 2015\Projects\Assignment3\TryIt\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\kadhvary\Documents\Visual Studio 2015\Projects\Assignment3\TryIt\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\kadhvary\Documents\Visual Studio 2015\Projects\Assignment3\TryIt\bin\roslyn\vbc.exe
+C:\Users\kadhvary\Documents\Visual Studio 2015\Projects\Assignment3\TryIt\bin\roslyn\VBCSCompiler.exe
+C:\Users\kadhvary\Documents\Visual Studio 2015\Projects\Assignment3\TryIt\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\kadhvary\Documents\Visual Studio 2015\Projects\Assignment3\TryIt\bin\TryIt.dll.config
+C:\Users\kadhvary\Documents\Visual Studio 2015\Projects\Assignment3\TryIt\bin\TryIt.dll
+C:\Users\kadhvary\Documents\Visual Studio 2015\Projects\Assignment3\TryIt\bin\TryIt.pdb
+C:\Users\kadhvary\Documents\Visual Studio 2015\Projects\Assignment3\TryIt\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\kadhvary\Documents\Visual Studio 2015\Projects\Assignment3\TryIt\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\kadhvary\Documents\Visual Studio 2015\Projects\Assignment3\TryIt\obj\Debug\TryIt.csprojResolveAssemblyReference.cache
+C:\Users\kadhvary\Documents\Visual Studio 2015\Projects\Assignment3\TryIt\obj\Debug\TryIt.dll
+C:\Users\kadhvary\Documents\Visual Studio 2015\Projects\Assignment3\TryIt\obj\Debug\TryIt.pdb
+F:\Assignment3\TryIt\bin\roslyn\csc.exe
+F:\Assignment3\TryIt\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Assignment3\TryIt\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Assignment3\TryIt\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Assignment3\TryIt\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Assignment3\TryIt\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Assignment3\TryIt\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Assignment3\TryIt\bin\roslyn\System.Collections.Immutable.dll
+F:\Assignment3\TryIt\bin\roslyn\System.Reflection.Metadata.dll
+F:\Assignment3\TryIt\bin\roslyn\vbc.exe
+F:\Assignment3\TryIt\bin\roslyn\VBCSCompiler.exe
+F:\Assignment3\TryIt\bin\roslyn\VBCSCompiler.exe.config
+F:\Assignment3\TryIt\bin\TryIt.dll.config
+F:\Assignment3\TryIt\bin\TryIt.dll
+F:\Assignment3\TryIt\bin\TryIt.pdb
+F:\Assignment3\TryIt\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Assignment3\TryIt\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Assignment3\TryIt\obj\Debug\TryIt.csprojResolveAssemblyReference.cache
+F:\Assignment3\TryIt\obj\Debug\TryIt.dll
+F:\Assignment3\TryIt\obj\Debug\TryIt.pdb
+E:\ASU\Assignment3\TryIt\bin\roslyn\csc.exe
+E:\ASU\Assignment3\TryIt\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\ASU\Assignment3\TryIt\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\ASU\Assignment3\TryIt\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\ASU\Assignment3\TryIt\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\ASU\Assignment3\TryIt\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\ASU\Assignment3\TryIt\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\ASU\Assignment3\TryIt\bin\roslyn\System.Collections.Immutable.dll
+E:\ASU\Assignment3\TryIt\bin\roslyn\System.Reflection.Metadata.dll
+E:\ASU\Assignment3\TryIt\bin\roslyn\vbc.exe
+E:\ASU\Assignment3\TryIt\bin\roslyn\VBCSCompiler.exe
+E:\ASU\Assignment3\TryIt\bin\roslyn\VBCSCompiler.exe.config
+E:\ASU\Assignment3\TryIt\bin\TryIt.dll.config
+E:\ASU\Assignment3\TryIt\bin\TryIt.dll
+E:\ASU\Assignment3\TryIt\bin\TryIt.pdb
+E:\ASU\Assignment3\TryIt\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\ASU\Assignment3\TryIt\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\ASU\Assignment3\TryIt\obj\Debug\TryIt.csprojResolveAssemblyReference.cache
+E:\ASU\Assignment3\TryIt\obj\Debug\TryIt.dll
+E:\ASU\Assignment3\TryIt\obj\Debug\TryIt.pdb
+C:\Users\kadhvary\Downloads\Assignment3\TryIt\bin\roslyn\csc.exe
+C:\Users\kadhvary\Downloads\Assignment3\TryIt\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\kadhvary\Downloads\Assignment3\TryIt\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\kadhvary\Downloads\Assignment3\TryIt\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\kadhvary\Downloads\Assignment3\TryIt\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\kadhvary\Downloads\Assignment3\TryIt\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\kadhvary\Downloads\Assignment3\TryIt\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\kadhvary\Downloads\Assignment3\TryIt\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\kadhvary\Downloads\Assignment3\TryIt\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\kadhvary\Downloads\Assignment3\TryIt\bin\roslyn\vbc.exe
+C:\Users\kadhvary\Downloads\Assignment3\TryIt\bin\roslyn\VBCSCompiler.exe
+C:\Users\kadhvary\Downloads\Assignment3\TryIt\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\kadhvary\Downloads\Assignment3\TryIt\bin\TryIt.dll.config
+C:\Users\kadhvary\Downloads\Assignment3\TryIt\bin\TryIt.dll
+C:\Users\kadhvary\Downloads\Assignment3\TryIt\bin\TryIt.pdb
+C:\Users\kadhvary\Downloads\Assignment3\TryIt\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\kadhvary\Downloads\Assignment3\TryIt\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\kadhvary\Downloads\Assignment3\TryIt\obj\Debug\TryIt.csprojResolveAssemblyReference.cache
+C:\Users\kadhvary\Downloads\Assignment3\TryIt\obj\Debug\TryIt.dll
+C:\Users\kadhvary\Downloads\Assignment3\TryIt\obj\Debug\TryIt.pdb
+C:\Users\kadhvary\Downloads\Assignment3\TryIt\bin\Newtonsoft.Json.dll
+C:\Users\kadhvary\Downloads\Assignment3\TryIt\bin\Newtonsoft.Json.xml

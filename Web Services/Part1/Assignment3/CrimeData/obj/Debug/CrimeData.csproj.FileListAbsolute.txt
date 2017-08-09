@@ -1,0 +1,19 @@
+C:\Users\kadhvary\Documents\Visual Studio 2015\Projects\Assignment3\CrimeData\bin\CrimeData.dll.config
+C:\Users\kadhvary\Documents\Visual Studio 2015\Projects\Assignment3\CrimeData\bin\CrimeData.dll
+C:\Users\kadhvary\Documents\Visual Studio 2015\Projects\Assignment3\CrimeData\bin\CrimeData.pdb
+C:\Users\kadhvary\Documents\Visual Studio 2015\Projects\Assignment3\CrimeData\obj\Debug\CrimeData.csprojResolveAssemblyReference.cache
+C:\Users\kadhvary\Documents\Visual Studio 2015\Projects\Assignment3\CrimeData\obj\Debug\CrimeData.dll
+C:\Users\kadhvary\Documents\Visual Studio 2015\Projects\Assignment3\CrimeData\obj\Debug\CrimeData.pdb
+F:\Assignment3\CrimeData\bin\CrimeData.dll.config
+F:\Assignment3\CrimeData\bin\CrimeData.dll
+F:\Assignment3\CrimeData\bin\CrimeData.pdb
+F:\Assignment3\CrimeData\obj\Debug\CrimeData.dll
+F:\Assignment3\CrimeData\obj\Debug\CrimeData.pdb
+C:\Users\kadhvary\Downloads\Assignment3\CrimeData\bin\CrimeData.dll.config
+C:\Users\kadhvary\Downloads\Assignment3\CrimeData\bin\CrimeData.dll
+C:\Users\kadhvary\Downloads\Assignment3\CrimeData\bin\CrimeData.pdb
+C:\Users\kadhvary\Downloads\Assignment3\CrimeData\obj\Debug\CrimeData.csprojResolveAssemblyReference.cache
+C:\Users\kadhvary\Downloads\Assignment3\CrimeData\obj\Debug\CrimeData.dll
+C:\Users\kadhvary\Downloads\Assignment3\CrimeData\obj\Debug\CrimeData.pdb
+C:\Users\kadhvary\Downloads\Assignment3\CrimeData\bin\Newtonsoft.Json.dll
+C:\Users\kadhvary\Downloads\Assignment3\CrimeData\bin\Newtonsoft.Json.xml
